@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+# FundMe dApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is my first hardhat project in my blockchain and web3 journey which i started with Patrick Collins the instructor from free code camp
 
-Try running some of the following tasks:
+
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+
 ```
